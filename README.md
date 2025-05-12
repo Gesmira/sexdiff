@@ -13,13 +13,7 @@ Comparing_Alz_Parkinsons_Results.ipynb
 May7_vae_alzheimers.ipynb
 - Multi-task VAE implementation on Alzheimer’s HVGs, including auxiliary sex/disease heads, training routines, embedding extraction, and t-SNE/UMAP visualization.
 
-May7_vae_alz_diseaselosstwicesexloss.ipynb
-- Hyperparameter exploration of the Alzheimer’s VAE, varying reconstruction vs. disease vs. sex loss weights to assess impact on latent disentanglement.
-
-May7_vae_alz_diseaselosshalfsexloss.ipynb
-- Further hyperparameter exploration of the Alzheimer’s VAE, keeping the weights on reconstruction loss constant while weighting sex loss twice as much as disease loss
-
-May6_vae.ipynb
+May6_vae_parkinsons.ipynb
 - Multi-task VAE implementation on Parkinson’s HVGs, including auxiliary sex/disease heads, training routines, embedding extraction, and t-SNE/UMAP visualization.
 
 RandomForest_Visualizations_all_cells_Alzheimers.ipynb
